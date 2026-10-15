@@ -1,0 +1,11 @@
+{
+  "org": "scikit-hep",
+  "repo": "vector",
+  "versions": [
+    {
+      "commit": "caf34cddf9fa2cebc4d9c8c7ed090006ed4687cc",
+      "tag": "",
+      "parsed_at": "2026-10-15T20:25:57.082441+00:00"
+    }
+  ]
+}
